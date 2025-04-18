@@ -16,7 +16,7 @@ npm install
 npm start
 ```
 
-The server will run on http://localhost:3000 by default. However, you can change the default port on the server.js file.
+The server will run on http://localhost:3000 by default when run locally. However, you can change the default port on the server.js file. If you can in for a real quick test, use https://mini-node-server.onrender.com as the base url.
 
 ## API Endpoints
 
