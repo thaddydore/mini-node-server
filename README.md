@@ -1,6 +1,6 @@
 # Todo Server
 
-A simple Express server for managing todos with file-based storage.
+A simple Express server for managing todos with file-based storage for learning purposes.
 
 ## Setup
 
@@ -16,7 +16,7 @@ npm install
 npm start
 ```
 
-The server will run on http://localhost:3000
+The server will run on http://localhost:3000 by default. However, you can change the default port on the server.js file.
 
 ## API Endpoints
 
@@ -57,4 +57,3 @@ The server will run on http://localhost:3000
     date: Date        // Creation date
 }
 ```
-# mini-node-server
